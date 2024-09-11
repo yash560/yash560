@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My-self Yash Jain</h1>
-<h3 align="center">Self-taught passionate FrontEnd developer from India 🇮🇳</h3>
+<h3 align="center">Self-taught passionate Full Stack developer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning **AWS Services**
 
